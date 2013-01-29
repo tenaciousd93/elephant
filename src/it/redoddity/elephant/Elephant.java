@@ -6,4 +6,12 @@ public class Elephant {
 		// TODO Auto-generated constructor stub
 	}
 
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public void feed() {
+		// TODO Auto-generated method stub		
+	}
 }
